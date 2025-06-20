@@ -1,0 +1,14 @@
+1. Install the dependencies for both frontend and backend
+
+cd frontend > npm install 
+cd backend > npm install 
+
+2. for the frontend application to run 
+
+npm start
+
+3. for the backend application to run
+
+node  src/server.js
+
+ensure that db is connected properly
